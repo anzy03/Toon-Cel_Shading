@@ -1,3 +1,3 @@
 # Toon/Cel Shader
 
-![Toon Shader](/images/Toon.gif)
+![Toon Shader](/Images/Toon.gif)
